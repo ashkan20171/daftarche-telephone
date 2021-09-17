@@ -1,0 +1,10 @@
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\bin\Debug\mycontacts.exe.config
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\bin\Debug\mycontacts.exe
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\bin\Debug\mycontacts.pdb
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\obj\Debug\mycontacts.csprojAssemblyReference.cache
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\obj\Debug\mycontacts.Form1.resources
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\obj\Debug\mycontacts.Properties.Resources.resources
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\obj\Debug\mycontacts.csproj.GenerateResource.cache
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\obj\Debug\mycontacts.csproj.CoreCompileInputs.cache
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\obj\Debug\mycontacts.exe
+C:\Users\ashkan20192\Desktop\پروژه\mycontacts\mycontacts\obj\Debug\mycontacts.pdb
